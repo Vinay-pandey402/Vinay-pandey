@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vinay-pandey402/Vinay-pandey/main/banner.png" alt="Vinay Banner" />
+</p>
 <h1 align="center">👋 Hi, I'm Vinay Pandey</h1>
 <h3 align="center">Business Development Manager | US IT Staffing | Vendor & Client Relations</h3>
 
